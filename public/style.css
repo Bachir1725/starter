@@ -1,0 +1,67 @@
+
+body{
+    background-color: rgb(255, 255, 254);
+    background-image: url('FacNtic.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: inherit;
+}
+
+header{
+    text-align: center ;
+
+}
+ul{
+    list-style-type:none ;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FCA34F;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: #646e7d;
+    text-align: center;
+    padding: 0.7rem 0.7rem;
+    text-decoration: none;
+         
+}
+li a:hover{
+    background-color: #111;
+}
+footer{
+    background-color: rgba(220, 223, 215, 0.755);
+    color: #646e7d;
+    text-align: center;
+    /* padding-bottom: 15px; */
+
+   
+}
+img{
+  display: block; 
+}
+
+#logo_uc2{
+    width: 150px;
+    height: 150px;
+}
+#address{
+   height: 150px;
+   text-align: left;
+   overflow: hidden;
+   background-color: rgb(51, 48, 48);;
+  
+}
+#add_des{
+    position: relative;
+    left: 170px;
+    bottom: 100px;
+
+}
+a{
+    position: relative;
+    top: 75px; 
+}
